@@ -1,0 +1,7 @@
+API extraction submission notes
+- Notebook: 03_CoinGecko_API_Extraction.ipynb
+- API: CoinGecko simple/price public endpoint
+- The notebook makes the live request, inspects JSON, flattens records, validates fields, and writes coingecko_prices.csv.
+- coingecko_prices_example.csv is a schema/example file only, NOT live market data. Run the notebook to create a current CSV.
+- Requirements: Python 3, requests, pandas, Jupyter Notebook.
+- Install: pip install requests pandas jupyter
