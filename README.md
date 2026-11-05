@@ -194,12 +194,13 @@ git commit -m "feat: complete Bluestock Week 2 FinTech assignment deliverables"
 # Set default branch to main
 git branch -M main
 
-# Link to your remote GitHub repository (replace <USERNAME> with your GitHub handle)
-git remote add origin https://github.com/<USERNAME>/bluestock-week2-fintech-assignment.git
+# Link to your remote GitHub repository
+git remote add origin https://github.com/Lavanish007/bluestock-week2-fintech-assignment.git
 
 # Push to GitHub
 git push -u origin main
 ```
 
 ### Step 3: Submit Repository URL
-Copy the resulting repository URL (e.g., `https://github.com/<USERNAME>/bluestock-week2-fintech-assignment`) and paste it into the official Bluestock internship submission portal.
+Copy the resulting repository URL (`https://github.com/Lavanish007/bluestock-week2-fintech-assignment`) and paste it into the official Bluestock internship submission portal.
+
