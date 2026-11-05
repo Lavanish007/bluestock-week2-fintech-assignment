@@ -38,4 +38,6 @@ venv.bak/
 Thumbs.db
 desktop.ini
 $RECYCLE.BIN/
+.kilo/
+
 
